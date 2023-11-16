@@ -1,4 +1,4 @@
-# GTA rendering hook
+# GTA rendering hook / gtaRenderHook
 
 GTA rendering hook
 
